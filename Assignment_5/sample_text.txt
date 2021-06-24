@@ -1,0 +1,4 @@
+In this lob, you will creat a hash table.
+Store English words in the hash table.
+Use the hash table as a dictionary to check
+the speling of the words in an input text file.
